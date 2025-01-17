@@ -15,7 +15,7 @@ Este projeto implementa uma interface de chat em linha de comando que permite ao
 
 ## Pré-requisitos
 
-- Python 3.7 ou superior
+- Python 3 ou superior
 - Conta Google Cloud com acesso à API do Gemini
 - Chave de API do Google
 
